@@ -32,7 +32,7 @@
 ## 🚀 快速开始
 
 ### 环境依赖
-- Python 3.9+
+- Python 3.13+
 - Node.js & npm
 - Docker (用于运行 Milvus)
 
@@ -91,3 +91,5 @@
 - `/backend`: 包含 API、核心业务逻辑和 Milvus 服务。
 - `/frontend`: 包含 React 源代码和样式系统。
 - `/data`: 存放基础金融数据集。
+
+### 第五步：请查看data目录的系统运行截图.docx，检查是否正常运行。
